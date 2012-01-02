@@ -27,6 +27,9 @@ git submodule add git://git.typo3.org/FLOW3/Packages/Symfony.Component.Yaml.git 
 git submodule add git://git.typo3.org/FLOW3/Packages/TYPO3.Kickstart.git Packages/Application/TYPO3.Kickstart
 git submodule add git://git.typo3.org/FLOW3/Packages/TYPO3.Surf.git Packages/Application/TYPO3.Surf
 
+
+git commit -m "Initial commit"
+
 echo '------------------------------------------'
 echo ' CREATED DISTRIBUTION'
 echo ' Now, push the resulting git repository
